@@ -13,7 +13,6 @@ qc.cx(0, 1)
 qc.cx(1, 2)
 qc.cx(2, 3)
 
-# Draw the circuit and save it as a PNG
 # Note: This requires 'matplotlib' and 'pylatexenc' installed
 qc.draw(output='mpl', filename='4QubitGHZ.png')
 
