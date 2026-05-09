@@ -19,8 +19,6 @@ A demonstration of maximal entanglement across four qubits.
 ### 2. Bell States
 Exploring the four fundamental entangled states for 2 qubits.
 
-4QubitGHZ.png
-
 ## 📡 Future Goals
 * Implementing Quantum Full Adders.
 * Simulating circuits using **Qiskit** in Python.
