@@ -1,3 +1,9 @@
+"""
+4-Qubit GHZ State Generator
+Author: Umesh Penkey
+College: JNTUACEK
+Description: Generates maximal entanglement across 4 qubits
+"""
 from qiskit import QuantumCircuit
 from qiskit.visualization import circuit_drawer
 import matplotlib.pyplot as plt
