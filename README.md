@@ -27,4 +27,4 @@ Exploring the four fundamental entangled states for 2 qubits.
 * Connecting Quantum algorithms to classical VLSI design principles.
 
 ---
-*Maintained by Umesh (3rd Year B.Tech, JNTUACEK)*
+*Maintained by Umesh Penkey (3rd Year B.Tech, JNTUACEK)*
